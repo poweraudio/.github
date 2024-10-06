@@ -104,3 +104,9 @@ More information
 
 For more information on PowerAudio’s approach to porting software, see the
 [list of policies](policies.md) that govern development activity.
+
+[This article on Talospace][talospace] further describes the history of
+PowerAudio and the technical details of the porting process.
+
+[talospace]:
+ https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html
