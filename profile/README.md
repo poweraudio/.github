@@ -55,8 +55,6 @@ page][repos] for a complete list).
   adds `LV2_ONLY` option.
 * [plugdata]: uses patched JUCE with Power fixes, installs to `/usr/local`
   (customizable), and adds `LV2_ONLY` option.
-* [sfizz]: fixes GCC errors and updates dependency to version including Power
-  fixes.
 * [Surge XT]: uses patched JUCE with Power fixes, adds workaround if LuaJIT is
   unsupported, and adds `LV2_ONLY` option.
 * [tap-lv2]: fixes build process on Power.
@@ -77,7 +75,6 @@ page][repos] for a complete list).
 [Monique]: https://github.com/poweraudio/monique
 [Odin 2]: https://github.com/poweraudio/odin2
 [plugdata]: https://github.com/poweraudio/plugdata
-[sfizz]: https://github.com/poweraudio/sfizz-ui
 [Surge XT]: https://github.com/poweraudio/surge
 [tap-lv2]: https://github.com/poweraudio/tap-lv2
 [Triceratops]: https://github.com/poweraudio/triceratops
