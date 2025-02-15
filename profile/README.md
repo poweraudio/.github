@@ -51,8 +51,7 @@ page][repos] for a complete list).
   `/usr/local`, and prevents unnecessary re-linking.
 * [Monique]: uses patched JUCE with Power fixes, adds installation rules, and
   adds `LV2_ONLY` option.
-* [Odin 2]: uses patched JUCE with Power fixes, adds installation rules, and
-  adds `LV2_ONLY` option.
+* [Odin 2]: uses patched JUCE with Power fixes and adds `LV2_ONLY` option.
 * [plugdata]: uses patched JUCE with Power fixes, installs to `/usr/local`
   (customizable), and adds `LV2_ONLY` option.
 * [Surge XT]: uses patched JUCE with Power fixes, adds workaround if LuaJIT is
